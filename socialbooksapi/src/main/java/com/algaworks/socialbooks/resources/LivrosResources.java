@@ -22,6 +22,8 @@ public class LivrosResources {
 	public List<Livro> listar() {
 		
 		return livrosRepository.findAll();
+		
+		//Testando git
 	}
 	
 
